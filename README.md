@@ -10,7 +10,7 @@ I am a backend developer and have interest to develop a IOT solution to automate
 
 
 #### 🏆 Github Profile Trophy
-[![Github Profile_Trophy](https://github-profile-trophy.vercel.app/?username=MaulikS1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Profile_Trophy](https://github-profile-trophy.vercel.app/?username=MaulikS1&row=1)](https://github.com/MaulikS1/github-profile-trophy)
 
 <!--
 **MaulikS1/MaulikS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
