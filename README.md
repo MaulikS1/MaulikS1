@@ -6,7 +6,7 @@ I am a backend developer and have interest to develop a IOT solution to automate
 ![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
 
 ### Connect at
-!\[my badge\](https://badgen.net/badge/Linkedin/solankimaulik/blue?icon=linkedin)
+!\[linkedin\](https://badgen.net/badge/Linkedin/solankimaulik/blue?icon=linkedin)
 
 
 #### 🏆 Github Profile Trophy
