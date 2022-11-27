@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi Developer 👋
 
+
+#### 🔭 Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
 
 #### 🏆 Github Profile Trophy
-
 [![Github Profile_Trophy](https://github-profile-trophy.vercel.app/?username=MaulikS1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
