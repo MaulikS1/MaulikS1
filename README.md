@@ -1,5 +1,6 @@
 ### Hi Developer 👋
 
+I am a backend developer and have interest to develop a IOT solution to automate and optimize the manual processes.
 
 #### 🔭 Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
