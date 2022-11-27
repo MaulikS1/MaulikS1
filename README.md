@@ -1,11 +1,11 @@
 ### Hi Developers 👋
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solankimaulik)
+
 
 I am a backend developer and have interest to develop a IOT solution to automate and optimize the manual processes.
 
-#### 🔭 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
+### 📱 Social
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solankimaulik)
 
 ### 💻 Languages and Tools:
 <p>
