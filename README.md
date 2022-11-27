@@ -8,10 +8,6 @@ I am a backend developer and have interest to develop a IOT solution to automate
 ### Social
 ![Linkedin](https://img.shields.io/twitter/url?label=SolankiMaulik&logo=linkedin&style=social&url=https://www.linkedin.com/in/solankimaulik/)
 
-
-#### 🏆 Github Profile Trophy
-[![Github Profile_Trophy](https://github-profile-trophy.vercel.app/?username=MaulikS1&row=1)](https://github.com/MaulikS1/github-profile-trophy)
-
 <!--
 **MaulikS1/MaulikS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
