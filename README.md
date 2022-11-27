@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
 
-[![HitCount](http://hits.dwyl.io/MaulikS1/badges.svg)](http://hits.dwyl.io/MaulikS1/badges)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MaulikS1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **MaulikS1/MaulikS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
