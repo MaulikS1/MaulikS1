@@ -6,7 +6,8 @@ I am a backend developer and have interest to develop a IOT solution to automate
 ![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
 
 ### Social
-![Linkedin](https://img.shields.io/twitter/url?label=SolankiMaulik&logo=linkedin&style=social&url=https://www.linkedin.com/in/solankimaulik/)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solankimaulik)
+
 
 <!--
 **MaulikS1/MaulikS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
