@@ -5,6 +5,10 @@ I am a backend developer and have interest to develop a IOT solution to automate
 #### 🔭 Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
 
+### Connect at
+!\[my badge\](https://badgen.net/badge/Linkedin/solankimaulik/blue?icon=linkedin)
+
+
 #### 🏆 Github Profile Trophy
 [![Github Profile_Trophy](https://github-profile-trophy.vercel.app/?username=MaulikS1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
