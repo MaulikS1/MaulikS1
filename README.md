@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{MaulikS1}/count.svg)
 
 <!--
 **MaulikS1/MaulikS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
