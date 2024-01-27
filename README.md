@@ -2,7 +2,7 @@
 
 
 
-I am a backend developer and have interest to develop a IOT solution to automate and optimize the manual processes.
+I am a full stack developer and have interest to develop a IOT solution to automate and optimize the manual processes.
 
 ### 📱 Social
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solankimaulik)
