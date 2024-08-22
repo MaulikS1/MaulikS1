@@ -5,7 +5,7 @@
 I am a full stack developer and have interest to develop a IOT solution to automate and optimize the manual processes.
 
 ### 📱 Social
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maulik-solanki)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/maulik-solanki](https://www.linkedin.com/in/maulik-solanki))
 
 <!--
 **MaulikS1/MaulikS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
